@@ -53,18 +53,23 @@ Compares multiple features visually within a dashboard.
 Combine all visualizations into a single dashboard using Matplotlib and Seaborn.
 
 Results
+
 Bar Chart Insights
 Each species contains 50 samples.
 Dataset is balanced.
+
 Histogram Insights
 Sepal Length values mostly range between 5 and 7 cm.
 Distribution is approximately normal.
+
 Scatter Plot Insights
 Petal Length and Sepal Length show a positive relationship.
 Setosa is clearly separated from other species.
+
 Feature Comparison Insights
 Petal features provide better separation between species than sepal features.
 Petal Length is one of the most informative features.
+
 Conclusion
 
 The Iris dataset shows clear distinctions among species, especially through petal measurements. Visualization helps understand data structure and feature importance before model building.
